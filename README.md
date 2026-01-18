@@ -1,2 +1,4 @@
-# Lab 09
+# Lab Exam
 AWS Configuration
+Terraform
+Ansible
